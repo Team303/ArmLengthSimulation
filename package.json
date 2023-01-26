@@ -1,0 +1,11 @@
+{
+  "name": "arm-length-sim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-esm": "^0.0.6",
+    "typescript": "^4.9.4"
+  }
+}
