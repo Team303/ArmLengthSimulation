@@ -17,8 +17,7 @@
   },
   "dependencies": {
     "array-permutation": "^0.2.0",
-    "chalk": "^5.2.0",
-    "generatorics": "^1.1.0"
+    "chalk": "^5.2.0"
   },
   "prettier": "@wowkster/prettier-config"
 }
